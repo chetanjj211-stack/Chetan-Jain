@@ -1,0 +1,6 @@
+{
+  "name": "Jackwar Club",
+  "description": "Premium real-time color prediction and number guessing gaming platform featuring authentic Win Go games, real-time synchronization, interactive charts, and secure balance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
